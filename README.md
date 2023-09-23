@@ -7,5 +7,5 @@ VR虛擬實境!
 把網頁放進另一屏放全畫面，按清通知
 
 
-給有direct display功能的頭鏡進行自動感渲染深層化，Immersive depth precision!
+給有direct display功能的VR頭鏡進行自動感渲染深層化，Immersive depth precision!
 Quest2半支援，請用VR3
