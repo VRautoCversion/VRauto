@@ -8,5 +8,6 @@ VR虛擬實境!
 
 
 給有direct display功能的VR頭鏡進行自動感渲染深層化，Immersive depth precision!
-Quest2半支援，請用VR3
+Quest2半支援，它請用VR3，又可用anydesk 傳到手機
+
 作者Adair Chan
